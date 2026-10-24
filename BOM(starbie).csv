@@ -1,0 +1,7 @@
+Seeed XIAO ESP32-C3    	1	Main microcontroller
+SSD1306 OLED display	1	Displays Starbie's face and stats
+MPU6050 accelerometer/gyroscope	1	Detects movement
+Push buttons	2	User controls
+Resistors	As needed	Limit current or provide pull-ups
+PCB	1	Holds and connects the components
+Connecting wires	As needed	Electrical connections
